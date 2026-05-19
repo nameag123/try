@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 void solve() {
-    //1
+    //2
     return ;
 }
 int main() {
